@@ -1,4 +1,4 @@
-# PraveenOrugantiTechnicalNotes
+# PraveenOruganti TechnicalNotes
 PraveenOruganti Technical Notes
 
 
